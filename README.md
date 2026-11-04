@@ -33,13 +33,6 @@ I build machine learning models and web apps that turn messy data into useful an
 
 ---
 
-## 📊 GitHub Stats
-
-![Nabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabin012&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabin012&layout=compact&hide_border=true)
-
----
-
 ## 🌱 Currently
 
 - Pursuing my MS in Computer Science at Wichita State University
