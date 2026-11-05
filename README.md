@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nabin%20Kumar%20KC&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20AI%20for%20Cybersecurity%20%E2%80%A2%20Computer%20Vision&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
+  <img src="./assets/header.svg" width="100%" alt="Nabin Kumar KC — Machine Learning Engineer"/>
 </p>
 
 <p align="center">
@@ -37,31 +37,25 @@ I love turning messy data into models that matter, from **catching hidden DNS tu
 - ⚡ Fun fact: I built a system to control my computer with **hand gestures** ✋
 
 </td>
-<td width="45%" valign="top">
+<td width="45%" valign="top" align="center">
 
-```python
-class NabinKumarKC:
-    def __init__(self):
-        self.role      = "ML Engineer"
-        self.education = {
-            "MS CS":  "Wichita State University",
-            "BE CE":  "NMIT, Bangalore",
-        }
-        self.focus     = [
-            "Machine Learning",
-            "Deep Learning / CNNs",
-            "AI for Cybersecurity",
-            "Computer Vision",
-        ]
-        self.experience   = "2+ years"
-        self.projects     = "10+"
-        self.certificates = "4+"
-
-    def status(self):
-        return "Open to ML / AI roles 🚀"
-```
+<img src="./assets/glance.svg" width="100%" alt="At a glance"/>
 
 </td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== WHAT I DO ===================== -->
+## 🧭 What I Do
+
+<table>
+<tr>
+<td align="center" width="25%">🤖<br><b>Machine Learning</b><br><sub>Classification, regression, imbalanced data, model tuning</sub></td>
+<td align="center" width="25%">👁️<br><b>Deep Learning & Vision</b><br><sub>CNNs, image preprocessing, ensembles, OpenCV</sub></td>
+<td align="center" width="25%">🛡️<br><b>AI for Cybersecurity</b><br><sub>Traffic analysis, intrusion detection, adversarial ML</sub></td>
+<td align="center" width="25%">📊<br><b>Data Analysis</b><br><sub>EDA, feature engineering, visualization, insights</sub></td>
 </tr>
 </table>
 
@@ -183,8 +177,4 @@ Imbalanced 6-class problem tackled with **SMOTE & resampling**, comparing Logist
 
 ---
 
-<p align="center">
-  <b>⭐ Thanks for visiting! Turning data into insight, one model at a time. ⭐</b>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting"/>
