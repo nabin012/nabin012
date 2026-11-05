@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+<style>
+ .w1{animation:m 9s ease-in-out infinite alternate}
+ .w2{animation:m 13s ease-in-out infinite alternate-reverse}
+ @keyframes m{to{transform:translateX(-200px)}}
+ .t{font:600 15px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#cbd5e1;letter-spacing:3px}
+</style>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#36bcf7"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+<g class="w2" opacity=".25"><path d="M0 60 Q150 20 300 60 T600 60 T900 60 T1200 60 T1500 60 V120 H0Z" fill="url(#g)"/></g>
+<g class="w1" opacity=".45"><path d="M0 80 Q150 45 300 80 T600 80 T900 80 T1200 80 T1500 80 V120 H0Z" fill="url(#g)"/></g>
+<text x="600" y="40" text-anchor="middle" class="t">THANKS FOR VISITING  ·  LET'S BUILD SOMETHING SMART</text>
+</svg>
