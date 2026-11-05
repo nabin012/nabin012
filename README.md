@@ -181,10 +181,6 @@ Imbalanced 6-class problem tackled with **SMOTE & resampling**, comparing Logist
   <img src="https://streak-stats.demolab.com?user=nabin012&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabin012&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" alt="activity graph"/>
-</p>
-
 ---
 
 <p align="center">
