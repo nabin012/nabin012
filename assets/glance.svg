@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="400" viewBox="0 0 520 400">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="400" viewBox="0 0 560 400">
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#151a3a"/></linearGradient></defs>
 <style>
  .t{font:700 20px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#e2e8f0}
- .num{font:800 30px 'Segoe UI',Helvetica,Arial,sans-serif}
- .lab{font:700 12px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#94a3b8;letter-spacing:1px}
+ .num{font:800 28px 'Segoe UI',Helvetica,Arial,sans-serif}
+ .lab{font:700 11px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#94a3b8;letter-spacing:1px}
  .k{font:700 14px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#94a3b8}
  .v{font:600 14px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#e2e8f0}
  .fade{opacity:0;animation:fi .9s ease-out forwards}
@@ -11,32 +11,39 @@
  .dot{animation:bl 1.6s ease-in-out infinite}
  @keyframes bl{50%{opacity:.2}}
 </style>
-<rect x="1" y="1" width="518" height="398" rx="16" fill="url(#bg)" stroke="#36bcf7" stroke-opacity=".35"/>
+<rect x="1" y="1" width="558" height="398" rx="16" fill="url(#bg)" stroke="#36bcf7" stroke-opacity=".35"/>
 <text x="28" y="48" class="t">At a glance</text>
-<circle cx="410" cy="42" r="5" fill="#22c55e" class="dot"/><text x="422" y="47" class="k" style="fill:#22c55e">Available</text>
-<line x1="28" y1="64" x2="492" y2="64" stroke="#334155"/>
+<circle cx="450" cy="42" r="5" fill="#22c55e" class="dot"/><text x="462" y="47" class="k" style="fill:#22c55e">Available</text>
+<line x1="28" y1="64" x2="532" y2="64" stroke="#334155"/>
 <g class="fade" style="animation-delay:0.2s">
-  <circle cx="95" cy="140" r="52" fill="none" stroke="#36bcf7" stroke-opacity=".15" stroke-width="9"/>
-  <circle cx="95" cy="140" r="52" fill="none" stroke="#36bcf7" stroke-width="9" stroke-linecap="round" stroke-dasharray="326.7" stroke-dashoffset="326.7" transform="rotate(-90 95 140)" style="animation:draw0 1.6s ease-out 0.4s forwards"/>
-  <text x="95" y="152" text-anchor="middle" class="num" fill="#36bcf7">2+</text>
-  <text x="95" y="222" text-anchor="middle" class="lab">YEARS</text>
-  <text x="95" y="240" text-anchor="middle" class="lab">EXPERIENCE</text>
+  <circle cx="80" cy="140" r="46" fill="none" stroke="#36bcf7" stroke-opacity=".15" stroke-width="8"/>
+  <circle cx="80" cy="140" r="46" fill="none" stroke="#36bcf7" stroke-width="8" stroke-linecap="round" stroke-dasharray="289.0" stroke-dashoffset="289.0" transform="rotate(-90 80 140)" style="animation:draw0 1.6s ease-out 0.4s forwards"/>
+  <text x="80" y="150" text-anchor="middle" class="num" fill="#36bcf7">2+</text>
+  <text x="80" y="214" text-anchor="middle" class="lab">YEARS</text>
+  <text x="80" y="231" text-anchor="middle" class="lab">EXPERIENCE</text>
 </g>
-<style>@keyframes draw0{to{stroke-dashoffset:111.1}}</style><g class="fade" style="animation-delay:0.45s">
-  <circle cx="260" cy="140" r="52" fill="none" stroke="#a78bfa" stroke-opacity=".15" stroke-width="9"/>
-  <circle cx="260" cy="140" r="52" fill="none" stroke="#a78bfa" stroke-width="9" stroke-linecap="round" stroke-dasharray="326.7" stroke-dashoffset="326.7" transform="rotate(-90 260 140)" style="animation:draw1 1.6s ease-out 0.65s forwards"/>
-  <text x="260" y="152" text-anchor="middle" class="num" fill="#a78bfa">10+</text>
-  <text x="260" y="222" text-anchor="middle" class="lab">PROJECTS</text>
-  <text x="260" y="240" text-anchor="middle" class="lab">BUILT</text>
+<style>@keyframes draw0{to{stroke-dashoffset:98.3}}</style><g class="fade" style="animation-delay:0.45s">
+  <circle cx="213" cy="140" r="46" fill="none" stroke="#a78bfa" stroke-opacity=".15" stroke-width="8"/>
+  <circle cx="213" cy="140" r="46" fill="none" stroke="#a78bfa" stroke-width="8" stroke-linecap="round" stroke-dasharray="289.0" stroke-dashoffset="289.0" transform="rotate(-90 213 140)" style="animation:draw1 1.6s ease-out 0.65s forwards"/>
+  <text x="213" y="150" text-anchor="middle" class="num" fill="#a78bfa">10+</text>
+  <text x="213" y="214" text-anchor="middle" class="lab">PROJECTS</text>
+  <text x="213" y="231" text-anchor="middle" class="lab">BUILT</text>
 </g>
-<style>@keyframes draw1{to{stroke-dashoffset:49.0}}</style><g class="fade" style="animation-delay:0.7s">
-  <circle cx="425" cy="140" r="52" fill="none" stroke="#22d3ee" stroke-opacity=".15" stroke-width="9"/>
-  <circle cx="425" cy="140" r="52" fill="none" stroke="#22d3ee" stroke-width="9" stroke-linecap="round" stroke-dasharray="326.7" stroke-dashoffset="326.7" transform="rotate(-90 425 140)" style="animation:draw2 1.6s ease-out 0.9s forwards"/>
-  <text x="425" y="152" text-anchor="middle" class="num" fill="#22d3ee">4+</text>
-  <text x="425" y="222" text-anchor="middle" class="lab">CERTIFICATIONS</text>
-  <text x="425" y="240" text-anchor="middle" class="lab">EARNED</text>
+<style>@keyframes draw1{to{stroke-dashoffset:43.4}}</style><g class="fade" style="animation-delay:0.7s">
+  <circle cx="346" cy="140" r="46" fill="none" stroke="#22d3ee" stroke-opacity=".15" stroke-width="8"/>
+  <circle cx="346" cy="140" r="46" fill="none" stroke="#22d3ee" stroke-width="8" stroke-linecap="round" stroke-dasharray="289.0" stroke-dashoffset="289.0" transform="rotate(-90 346 140)" style="animation:draw2 1.6s ease-out 0.9s forwards"/>
+  <text x="346" y="150" text-anchor="middle" class="num" fill="#22d3ee">4+</text>
+  <text x="346" y="214" text-anchor="middle" class="lab">CERTIFICATIONS</text>
+  <text x="346" y="231" text-anchor="middle" class="lab">EARNED</text>
 </g>
-<style>@keyframes draw2{to{stroke-dashoffset:163.4}}</style>
-<line x1="28" y1="262" x2="492" y2="262" stroke="#334155"/>
-<g class="fade" style="animation-delay:1.2s"><circle cx="40" cy="285" r="5" fill="#36bcf7"/><text x="56" y="290" class="k">Education</text><text x="160" y="290" class="v">MS CS · Wichita State University</text></g><g class="fade" style="animation-delay:1.4s"><circle cx="40" cy="319" r="5" fill="#a78bfa"/><text x="56" y="324" class="k">Undergrad</text><text x="160" y="324" class="v">BE Computer Engineering · NMIT Bangalore</text></g><g class="fade" style="animation-delay:1.6s"><circle cx="40" cy="353" r="5" fill="#22d3ee"/><text x="56" y="358" class="k">Location</text><text x="160" y="358" class="v">Wichita, Kansas, USA</text></g>
+<style>@keyframes draw2{to{stroke-dashoffset:144.5}}</style><g class="fade" style="animation-delay:0.95s">
+  <circle cx="479" cy="140" r="46" fill="none" stroke="#f472b6" stroke-opacity=".15" stroke-width="8"/>
+  <circle cx="479" cy="140" r="46" fill="none" stroke="#f472b6" stroke-width="8" stroke-linecap="round" stroke-dasharray="289.0" stroke-dashoffset="289.0" transform="rotate(-90 479 140)" style="animation:draw3 1.6s ease-out 1.15s forwards"/>
+  <text x="479" y="150" text-anchor="middle" class="num" fill="#f472b6">1</text>
+  <text x="479" y="214" text-anchor="middle" class="lab">SPRINGER</text>
+  <text x="479" y="231" text-anchor="middle" class="lab">PUBLICATION</text>
+</g>
+<style>@keyframes draw3{to{stroke-dashoffset:0.0}}</style>
+<line x1="28" y1="254" x2="532" y2="254" stroke="#334155"/>
+<g class="fade" style="animation-delay:1.4s"><circle cx="40" cy="279" r="5" fill="#36bcf7"/><text x="56" y="284" class="k">Education</text><text x="160" y="284" class="v">MS CS · Wichita State University</text></g><g class="fade" style="animation-delay:1.5999999999999999s"><circle cx="40" cy="309" r="5" fill="#a78bfa"/><text x="56" y="314" class="k">Undergrad</text><text x="160" y="314" class="v">BE Computer Engineering · NMIT Bangalore</text></g><g class="fade" style="animation-delay:1.7999999999999998s"><circle cx="40" cy="339" r="5" fill="#f472b6"/><text x="56" y="344" class="k">Research</text><text x="160" y="344" class="v">Springer LNEE vol. 1104 (2024)</text></g><g class="fade" style="animation-delay:2.0s"><circle cx="40" cy="369" r="5" fill="#22d3ee"/><text x="56" y="374" class="k">Location</text><text x="160" y="374" class="v">Wichita, Kansas, USA</text></g>
 </svg>
