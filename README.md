@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://portfolio-nabin-k-cs-projects.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&multiline=false&width=720&height=45&lines=%F0%9F%A4%96+Building+ML+models+that+solve+real+problems;%F0%9F%9B%A1%EF%B8%8F+Detecting+malicious+traffic+with+AI;%F0%9F%91%81%EF%B8%8F+Teaching+machines+to+see+with+CNNs;%F0%9F%8E%93+MS+Computer+Science+%40+Wichita+State;%F0%9F%9A%80+Open+to+ML+%2F+AI+roles+%26+internships" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&multiline=false&width=720&height=45&lines=%F0%9F%A4%96+Building+ML+models+that+solve+real+problems;%F0%9F%9B%A1%EF%B8%8F+Detecting+malicious+traffic+with+AI;%F0%9F%91%81%EF%B8%8F+Teaching+machines+to+see+with+CNNs;%F0%9F%8E%93+MS+Computer+Science+%40+Wichita+State;%F0%9F%93%84+Published+researcher+%40+Springer;%F0%9F%9A%80+Open+to+ML+%2F+AI+roles+%26+internships" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -40,6 +40,35 @@ I love turning messy data into models that matter, from **catching hidden DNS tu
 <td width="45%" valign="top" align="center">
 
 <img src="./assets/glance.svg" width="100%" alt="At a glance"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== PUBLICATIONS ===================== -->
+## 📄 Publications
+
+<table>
+<tr>
+<td width="110" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Springer-Published-1E88E5?style=for-the-badge&logo=springer&logoColor=white"/><br><br>
+  <b>2024</b>
+</td>
+<td valign="top">
+
+### [Hand Gesture Control System for Basic PC Features](https://doi.org/10.1007/978-981-99-7622-5_40)
+
+Avay Kushwaha, **Nabin Kumar K C**, Aabhash Manandhar, Abhash Khanal, Vani Vasudevan
+
+*Advances in Computing and Information* (ERCICA), **Lecture Notes in Electrical Engineering, vol. 1104**, pp. 569–580, Springer, Singapore, 2024
+
+A touch-free way to control a PC with hand gestures: a hand-detection module built with **OpenCV** and **MediaPipe** recognizes gestures and maps them to system settings and applications.
+
+<a href="https://doi.org/10.1007/978-981-99-7622-5_40"><img src="https://img.shields.io/badge/DOI-10.1007%2F978--981--99--7622--5__40-blue?style=flat-square"/></a>
+<a href="https://link.springer.com/chapter/10.1007/978-981-99-7622-5_40"><img src="https://img.shields.io/badge/📖%20Read%20Paper-Springer-1E88E5?style=flat-square"/></a>
+<a href="https://github.com/nabin012/Hand-Gesture-Control-System"><img src="https://img.shields.io/badge/💻%20Code-GitHub-181717?style=flat-square&logo=github"/></a>
 
 </td>
 </tr>
@@ -119,6 +148,8 @@ CNNs that tell **live vs. fake fingerprints** apart, with a study of how image p
 
 ### ✋ [Hand Gesture Control System](https://github.com/nabin012/Hand-Gesture-Control-System)
 Hands-free computer control using **MediaPipe hand landmarks (21 key points)** and OpenCV, with a Tkinter GUI for gesture-triggered actions.
+
+**📄 Published in Springer LNEE (2024)** · [Read paper](https://doi.org/10.1007/978-981-99-7622-5_40)
 
 ![](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square)
 ![](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
